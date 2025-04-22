@@ -1,3 +1,6 @@
+![Salvium Banner](https://github.com/salvium/brand-assets/raw/4c75cc85e9389d1581fe4e9c440dc9de0bffbc73/Salvium_assets/banner.jpg)
+
+
 
 # Salvium MidJourney Visual Style Guide
 
